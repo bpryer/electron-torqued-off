@@ -22,6 +22,26 @@
       "outDir": null
     },
     {
+      "name": "Serial Port Listener",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceRoot}/src/serial.port/serialport.app.js",
+      "stopOnEntry": false,
+      "args": [],
+      "cwd": "${workspaceRoot}",
+      "preLaunchTask": null,
+      "runtimeExecutable": null,
+      "runtimeArgs": [
+        "--nolazy"
+      ],
+      "env": {
+        "NODE_ENV": "development"
+      },
+      "console": "internalConsole",
+      "sourceMaps": true,
+      "outDir": null
+    },
+    {
       "name": "Attach",
       "type": "node",
       "request": "attach",

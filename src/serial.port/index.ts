@@ -1,0 +1,2 @@
+
+export {  } from './serialport.interface';
