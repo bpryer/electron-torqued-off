@@ -1,0 +1,8 @@
+## node.js
+/node_modules/
+
+## typescirpt
+/.dist/
+/typings/
+/src/*.js
+/src/*.map
