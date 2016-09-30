@@ -30,7 +30,7 @@ export class Main {
       height: 600,
       width: 800,
     });
-    Main.mainWindow.loadURL('file://' + __dirname + '/index.html');
+    Main.mainWindow.loadURL('file://' + __dirname + '/../dist/index.html');
     Main.mainWindow.on('closed', Main.onClose);
   }
 

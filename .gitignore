@@ -2,7 +2,7 @@
 /node_modules/
 
 ## typescirpt
-/.dist/
+/dist/
 /typings/
 /src/**/*.js
 /src/**/*.js.map
