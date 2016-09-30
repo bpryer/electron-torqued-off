@@ -2,6 +2,8 @@
   "globalDependencies": {
     "github-electron": "registry:dt/github-electron#1.3.6+20160919065650",
     "node": "registry:dt/node#6.0.0+20160925070332",
+    "react": "registry:dt/react#0.14.0+20160927082313",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
     "serialport": "registry:dt/serialport#4.0.1+20160915134249"
   }
 }
